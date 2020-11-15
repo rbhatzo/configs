@@ -1,0 +1,6 @@
+set number
+set autoread
+set ruler
+set showmatch 
+syntax enable
+
