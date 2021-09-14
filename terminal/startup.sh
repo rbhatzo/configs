@@ -30,7 +30,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 # Installing Nerd Font
 echo -e "${GREEN}Installing Nerd Font...${NC}"
 brew tap homebrew/cask-fonts
-brew cask install font-hack-nerd-font
+brew install --cask font-hack-nerd-font
 
 # Installing Utilities
 echo -e "${GREEN}Installing tig...${NC}"
